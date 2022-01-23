@@ -23,5 +23,5 @@ Continued with the flask playlist<br>
 Continued with the flask playlist and completed the playlist and the blog.<br>
 **Goal Reached**<br>
 ### *Next Day Target* -> 
-<u>Learning basic react</u>
+<u> Learning basic react </u>
 <hr>
