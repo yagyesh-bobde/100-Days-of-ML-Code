@@ -14,4 +14,8 @@ Continued with the flask playlist
 *Next Day Target -> continue with flask
 <hr>
 
-
+## Day-3 , 23 Jan
+Continued with the flask playlist and completed the playlist and the blog.
+**Goal Reached**
+*Next Day Target -> Learning basic react 
+<hr>
