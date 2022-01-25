@@ -28,3 +28,12 @@ Started with the react tutorial<br>
 **Goal Reached**<br>
 ### *Next Day Target* -> <u> Finish the react tutorial</u>
 <hr>
+
+# Day-5 , 25 Jan
+1. Entered wipro ML hackathon, and also 
+2. completed my article on geeks for geeks on neural network 
+3. OpenCv project <br>
+**Goal Reached**<br>
+### *Next Day Target* -> Time series analysis data anlysis for the hackathon and ML playlist
+<hr>
+
