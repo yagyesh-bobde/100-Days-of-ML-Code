@@ -37,3 +37,9 @@ Started with the react tutorial<br>
 ### *Next Day Target* -> Time series analysis data anlysis for the hackathon and ML playlist
 <hr>
 
+# Day-6 , 26 Jan
+1. wipro ML hackathon time series analysis data 
+2. Face distance measurement/dynamic text reader open cv project<br>
+**Goal Reached**<br>
+### *Next Day Target* -> Time series course on kaggle/ data anlysis for the hackathon/ opencv project
+<hr>
