@@ -43,3 +43,10 @@ Started with the react tutorial<br>
 **Goal Reached**<br>
 ### *Next Day Target* -> Time series course on kaggle/ data anlysis for the hackathon/ opencv project
 <hr>
+
+# Day-7 , 27 Jan 
+1. Eye blink Detector
+2. watched how to deploy a model using steamlit on heroku
+3. started with the time series course tutorial on kaggle
+### *Next Day Target* -> Finish Time series course on kaggle / And make notes about it/ data anlysis for the hackathon/ opencv project
+<hr> 
